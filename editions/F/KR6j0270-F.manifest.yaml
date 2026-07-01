@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0270/F/v1
+canonical_location: https://kanripo.org/bkk/KR6j0270/F/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大悲心陀羅尼
+  identifiers:
+    krp: KR6j0270
+    cbeta: F27n1064
+    cbeta_old_id: F27n1064
+    authorityid: CA0008081
+    json_key: F1064
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/F/F27/F27n1064.xml
+    old_id: F27n1064
+  edition:
+    short: F
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0270_000-F.yaml, hash: 'sha256:4645840c72bcc608a86188f1f904fd25ebe6190544bd3db3c6689c15f7e600a4'}
+  - {seq: 1, filename: KR6j0270_001-F.yaml, hash: 'sha256:37fcdc7e7042bef9c4d0e94c9db4552cbce9e70fc217d01e046eac4aa3c4387c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0270_000-F.markers.yaml, hash: 'sha256:2b8e53ae8fc6be21f56f22bfd6fb858542da052e843c66bdc9cb94684ea484c2'}
+  - {seq: 1, role: markers, filename: assets/KR6j0270_001-F.markers.yaml, hash: 'sha256:ac442ac9f96ff93cf299d7a9a72680c7676a8e8759990849ed1dd538409bfc02'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0270_F_001-juan-start
+    span:
+    - body
+    - 0
+    - 791
+  label: 大悲心陁羅尼
+  type: juan
+  level: 1
+hash: sha256:f0bfd57027a552ff0eaf59e19e0bc590e2fd9e20cfb6f55f7f96c18436e7a737

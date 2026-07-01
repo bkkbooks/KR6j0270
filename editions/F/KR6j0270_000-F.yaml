@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0270/f/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大悲心陀羅尼
+  edition:
+    short: f
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/F/F27/F27n1064.xml
+    old_id: F27n1064
+hash: sha256:4645840c72bcc608a86188f1f904fd25ebe6190544bd3db3c6689c15f7e600a4

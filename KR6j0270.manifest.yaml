@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR6j0270/v1
+canonical_location: https://kanripo.org/bkk/KR6j0270/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大悲心陀羅尼
+  identifiers:
+    alt_id:
+    - F27n1064
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/F/F27/F27n1064.xml
+    old_id: F27n1064
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0270_000.yaml, hash: 'sha256:4645840c72bcc608a86188f1f904fd25ebe6190544bd3db3c6689c15f7e600a4'}
+  - {seq: 1, filename: KR6j0270_001.yaml, hash: 'sha256:3b471ee3957bbae44ec42561e77c1cf96dd41b52c1486ab570de86d894ff1e3f'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0270_001.markers.yaml, hash: 'sha256:c2ab880b9cd299c6fc3017c0c4283668bc402c1b601c50677aea958e72620138'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0270_F_001-juan-start
+    span:
+    - body
+    - 0
+    - 791
+  label: 大悲心陁羅尼
+  type: juan
+  level: 1
+hash: sha256:9ce0c200b0b040f23f62d0a00b649cc77db9b9cef52c9926d81eddb9d86f6cc1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: F
