@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6j0270_000.yaml, hash: 'sha256:4645840c72bcc608a86188f1f904fd25ebe6190544bd3db3c6689c15f7e600a4'}
-  - {seq: 1, filename: KR6j0270_001.yaml, hash: 'sha256:3b471ee3957bbae44ec42561e77c1cf96dd41b52c1486ab570de86d894ff1e3f'}
+  - {seq: 1, filename: KR6j0270_001.yaml, hash: 'sha256:37fcdc7e7042bef9c4d0e94c9db4552cbce9e70fc217d01e046eac4aa3c4387c'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0270_001.markers.yaml, hash: 'sha256:c2ab880b9cd299c6fc3017c0c4283668bc402c1b601c50677aea958e72620138'}
+  - {seq: 0, role: markers, filename: assets/KR6j0270_000.markers.yaml, hash: 'sha256:6ba98887f99befa9aa79c77968a3c90a30166d789c1f4206c1c105eab9b57b19'}
+  - {seq: 1, role: markers, filename: assets/KR6j0270_001.markers.yaml, hash: 'sha256:6ff3ca556a31fc93c19fcfd59dc59bbd7e1b27a876d0dbd6447689da08a16277'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,9 +32,6 @@ table_of_contents:
   label: 大悲心陁羅尼
   type: juan
   level: 1
-hash: sha256:9ce0c200b0b040f23f62d0a00b649cc77db9b9cef52c9926d81eddb9d86f6cc1
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8902525bf0b84bb4e862c764ba135bdac6b291073304395d81eb7c3cbd219522
 editions:
 - short: F

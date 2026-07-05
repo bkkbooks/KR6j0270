@@ -5,7 +5,6 @@ markers:
   body:
   - {type: line-break, offset: 0, content: '', id: KR6j0270_F_001-0507a02, ed: F, 'n': 0507a02}
   - {type: xml-element, offset: 0, content: '', id: KR6j0270_F_001-bkkxmlele1, name: byline, role: open, attrs: {'cb:type': translator}}
-  - {type: substitution, offset: 10, original: 陁, replacement: 陀, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3229}}
   - {type: indent, offset: 16, content: 　, id: KR6j0270_F_001-bkkind1}
   - {type: indent, offset: 18, content: 　, id: KR6j0270_F_001-bkkind2}
   - {type: xml-element, offset: 19, content: '', id: KR6j0270_F_001-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': translator}}
@@ -297,7 +296,6 @@ markers:
   - {type: xml-element, offset: 549, content: '', id: KR6j0270_F_001-bkkxmlele191, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 552, content: '', id: KR6j0270_F_001-bkkxmlele192, name: note, role: close, attrs: {place: inline}}
   - {type: indent, offset: 552, content: 　, id: KR6j0270_F_001-bkkind60}
-  - {type: substitution, offset: 555, original: 儗, replacement: 擬, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0299}}
   - {type: xml-element, offset: 558, content: '', id: KR6j0270_F_001-bkkxmlele193, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 560, content: '', id: KR6j0270_F_001-bkkxmlele194, name: note, role: close, attrs: {place: inline}}
   - {type: xml-element, offset: 564, content: '', id: KR6j0270_F_001-bkkxmlele195, name: note, role: open, attrs: {place: inline}}
@@ -409,4 +407,4 @@ markers:
   - {type: xml-element, offset: 791, content: '', id: pF27p0507a0301_end, name: p, role: close, attrs: {'cb:type': dharani, 'xml:id': pF27p0507a0301}}
   - {type: line-break, offset: 791, content: '', id: KR6j0270_F_001-0507b16, ed: F, 'n': 0507b16}
   back: []
-hash: sha256:c2ab880b9cd299c6fc3017c0c4283668bc402c1b601c50677aea958e72620138
+hash: sha256:6ff3ca556a31fc93c19fcfd59dc59bbd7e1b27a876d0dbd6447689da08a16277
